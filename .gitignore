@@ -2,3 +2,4 @@
 *.es3
 *.log
 /verification/
+/dist/
