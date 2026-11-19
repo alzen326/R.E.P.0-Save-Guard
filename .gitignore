@@ -1,0 +1,4 @@
+*.exe
+*.es3
+*.log
+/verification/
